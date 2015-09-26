@@ -1,0 +1,43 @@
+body{
+
+}
+
+h1{
+	color: #006400;
+}
+
+#headline{
+	font-family: georgia;
+	text-align: center;
+}
+
+p{
+	line-height: 19px;
+}
+
+h3{
+	text-transform: uppercase;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+img{
+	float: left;
+	margin: 20px;
+}
+
+#list{
+	display: block;
+	float: left;
+}
+
+#ref{
+	display: block;
+	float: left;
+}
